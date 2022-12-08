@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  Conway's Game of Life
-//
-//  Created by Екатерина Чернова on 07.12.2022.
-//
-
 import SwiftUI
 
 struct ContentView: View {
