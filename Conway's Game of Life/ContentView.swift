@@ -46,7 +46,6 @@ struct ContentView: View {
             }
             self.controls
         }
-        
     }
     
     private var controls: some View {
